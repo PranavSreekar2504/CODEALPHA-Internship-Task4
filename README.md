@@ -1,6 +1,6 @@
 # CODEALPHA-Intership_Task4
 
-Disease Prediction from Medical Data & Personal Portfolio Website
+Disease Prediction from Medical Data 
 📌 Internship Project - CODEALPHA
 
 📌 Project Overview
@@ -15,6 +15,8 @@ Data Preprocessing – Handling missing values, encoding categorical data, and f
 Classification Algorithms – Implementing Logistic Regression, Decision Trees, Random Forest, XGBoost, and Neural Networks.
 Dataset – Using publicly available datasets like Heart Disease, Diabetes, or COVID-19 symptom datasets.
 Model Evaluation – Using accuracy, precision, recall, F1-score, and ROC curves.
+
+
 📌 Technologies Used
 Python (Google Colab)
 Libraries: Pandas, NumPy, Scikit-learn, TensorFlow/Keras, Matplotlib, Seaborn
