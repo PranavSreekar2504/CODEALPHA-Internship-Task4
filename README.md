@@ -1,7 +1,4 @@
-# CODEALPHA-Intership_Task4
-
 Disease Prediction from Medical Data 
-📌 Internship Project - CODEALPHA
 
 📌 Project Overview
 
